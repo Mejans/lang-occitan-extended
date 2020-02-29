@@ -1,0 +1,32 @@
+fof-linguist:
+    admin:
+        menu:
+            title: Linguist
+            description: Personalizar las traduccions.
+        buttons:
+            apply: Aplicar
+            reset: Restaurar l’originala
+            copy-original: Copiar lo tèxt original
+            load-more: Ne cargar mai
+        locales:
+            all: TOTAS
+        placeholder:
+            not-translated: Pas traduch
+            all-locales: Un tèxt definir aquí serà mostrar dins totas las lengas
+            hint: Prima valor :
+        filters:
+            search: Recercar de cadenas de traduccion...
+            with-own-translations: Mas traduccions
+            with-original-translations-in-locales: With original translations in
+            without-original-translations-in-locales: Without original translations in
+            for-extension: Per extension
+            for-extension-unavailable: >
+                Cap de traduccion pas trobada dins lo namespace esperat « {namespace} ».
+                Benlèu qu’aquesta extension a pas cap de tèxt a traduire o utiliza un namespace diferent.
+                Ensajatz d’utilizar lo camp de recèrca per localizar sas traduccions.
+            results: Afichatge de {shown} sus {total} traduccions correspondentas
+        clear-cache:
+            text: >
+                Las nòvas traduccions son pas estadas aplicadas pel moment.
+                Note: la supression del cache farà trigar un momenton lo forum.
+            button: Escafar lo cache araow
