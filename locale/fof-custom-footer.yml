@@ -1,0 +1,10 @@
+# https://github.com/FriendsOfFlarum/custom-footer/
+fof-custom-footer:
+  admin:
+    settings:
+      title: Configuracion de la personalizacion del pè de pagina # Custom Footer Configuration
+
+      text: Tèxt del pè de pagina # Text for Footer
+      height: Nautor del pè de pagina # Height of Footer
+      css: CSS
+      js: JS

@@ -1,0 +1,5 @@
+# https://github.com/FriendsOfFlarum/nightmode
+fof-nightmode:
+    forum:
+        night: Mòde nuèch # Night Mode
+        day: Mòde jorn # Day Mode
