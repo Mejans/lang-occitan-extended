@@ -1,0 +1,38 @@
+{
+    "name": "mejans/lang-occitan",
+    "description": "Occitan language pack for Flarum and its bundled extensions.",
+    "type": "flarum-extension",
+    "keywords": ["extension", "flarum", "occitan", "locale", "translation", "traduccion"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quentin PAGÈS",
+            "email": "flarum@mejans.fr"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Mejans/lang-occitan-extended/issues",
+        "source": "https://github.com/Mejans/lang-occitan-extended"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.11"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.5.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Occitan",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#D4001C",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "oc",
+            "title": "Occitan"
+        }
+    }
+}
